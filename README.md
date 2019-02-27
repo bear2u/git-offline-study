@@ -42,4 +42,26 @@ Git 에 대해서 제대로 배워보실분 오세요~
 - [Github 오픈 소스 참고](https://www.slideshare.net/jangbi882/git-71791911?from_action=save)
 - [지옥에서온 깃](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
 
+## [주차별 공부내용]
+- 1주차
+  - Git,GitHub 이해
+  - SourceTree 사용법
+  - Git 명령어 공부
+  - Git branch 숙지
+  - Git commit,pull,fetch,fork,push 이해
+  - Github 협업 공부(PR)
+- 2주차
+  - Tag 이해
+  - 병합, Rebase 이해
+  - 실습
+- 3주차
+  - Git flow 실습
+  - http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
+  - https://ko.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+- 4주차
+  - Git + Readme로 협업하기 
+  - https://www.inflearn.com/course/git-redmine-gitflow/
+  
+  
+
 신청은 https://goo.gl/forms/cntMIJzF4nj2SiDf1 에서 부탁드립니다. 

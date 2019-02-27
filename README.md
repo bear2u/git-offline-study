@@ -29,7 +29,6 @@ Git 에 대해서 제대로 배워보실분 오세요~
 ## [스터디 일시 및 장소]
 - 2월 27일부터 매주 수요일 오후 8시 ~ 10시 (미리 공지 후 시간은 변동 가능)
 
-
 ## [스터디 리딩자 소개]
 - 김태현 개발자 (수지아빠)
 - GDG (Google Developer Groups) 부산 운영진
@@ -38,5 +37,9 @@ Git 에 대해서 제대로 배워보실분 오세요~
 
 ## [기타 사항]
 - 참가비 : 20,000 (1달기준)
+
+## [참고링크]
+- [Github 오픈 소스 참고](https://www.slideshare.net/jangbi882/git-71791911?from_action=save)
+- [지옥에서온 깃](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
 
 신청은 https://goo.gl/forms/cntMIJzF4nj2SiDf1 에서 부탁드립니다. 

@@ -48,6 +48,7 @@ Git 에 대해서 제대로 배워보실분 오세요~
 ## [참고링크]
 - [Github 오픈 소스 참고](https://www.slideshare.net/jangbi882/git-71791911?from_action=save)
 - [지옥에서온 깃](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
+- [stash 정리](https://wit.nts-corp.com/2014/03/25/1153)
 
 ## [주차별 공부내용]
 - 1주차

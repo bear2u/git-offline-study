@@ -14,6 +14,12 @@ Git 에 대해서 제대로 배워보실분 오세요~
 - 실무시 Git flow 에 대해 공부합니다. 
 - Git merge / rebase 등 알아봅니다. 
 
+## [준비물]
+- 노트북
+- Github 계정
+- [Source tree](https://www.sourcetreeapp.com/)
+  
+
 ## [모집대상]
 - 개발자 입문
 - 일반 개발자

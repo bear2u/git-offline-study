@@ -18,6 +18,7 @@ Git 에 대해서 제대로 배워보실분 오세요~
 - 노트북
 - Github 계정
 - [Source tree](https://www.sourcetreeapp.com/)
+- IDE editor(vscode, editplus, notepad++)
   
 
 ## [모집대상]
